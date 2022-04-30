@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/msmo/Documents/maksy-beta/mlruns/0/e9ab84cd5bee49cba21c5334cfa7cd00/artifacts
+end_time: 1651129908714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e9ab84cd5bee49cba21c5334cfa7cd00
+run_uuid: e9ab84cd5bee49cba21c5334cfa7cd00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651129877630
+status: 3
+tags: []
+user_id: msmo
