@@ -108,7 +108,6 @@ tabulate==0.8.9
 threadpoolctl==3.1.0
 tika==1.24
 tokenizers==0.10.3
-torchvision==0.12.0
 tqdm==4.64.0
 transformers==4.13.0
 typing_extensions==4.2.0
