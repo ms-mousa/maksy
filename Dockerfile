@@ -18,7 +18,7 @@ RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
 ENV PATH="/root/.cargo/bin:${PATH}"
 
 #
-RUN pip install -r /code/requirements.txt
+RUN pip install -r /code/requirements.txt --no-cache-dir
 
 #
 COPY . /code
